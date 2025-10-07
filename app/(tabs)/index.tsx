@@ -7,9 +7,9 @@ export default function HomeScreen() {
       {/* Title */}
       <Text style={styles.title}>My Todo List</Text>
 
-      <TodoItem text="Learn React Native" />
-      <TodoItem text="Build a static UI" />
-      <TodoItem text="Practice with StyleSheet" />
+      <TodoItem text="Apprend a coder" />
+      <TodoItem text="Apprend a chanter" />
+      <TodoItem text="Apprend a danser" />
     </View>
   );
 }
